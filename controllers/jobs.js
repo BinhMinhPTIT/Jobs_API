@@ -72,5 +72,3 @@ module.exports = {
   updateJob,
   getJob,
 }
-
-// 27
